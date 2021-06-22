@@ -1,0 +1,107 @@
+Priority Round-Robin Scheduling
+
+Will run Name: T1
+Priority: 4
+Burst Time: 20
+Remaining Burst Time: 10
+...Context is switching...
+
+Will run Name: T5
+Priority: 10
+Burst Time: 10
+Task T5 Finished
+
+Will run Name: T1
+Priority: 4
+Burst Time: 20
+Task T1 Finished
+
+Will run Name: T3
+Priority: 3
+Burst Time: 25
+Remaining Burst Time: 15
+...Context is switching...
+
+Will run Name: T4
+Priority: 3
+Burst Time: 15
+Remaining Burst Time: 5
+...Context is switching...
+
+Will run Name: T6
+Priority: 3
+Burst Time: 25
+Remaining Burst Time: 15
+...Context is switching...
+
+Will run Name: T7
+Priority: 3
+Burst Time: 25
+Remaining Burst Time: 15
+...Context is switching...
+
+Will run Name: T8
+Priority: 3
+Burst Time: 20
+Remaining Burst Time: 10
+...Context is switching...
+
+Will run Name: T9
+Priority: 3
+Burst Time: 20
+Remaining Burst Time: 10
+...Context is switching...
+
+Will run Name: T3
+Priority: 3
+Burst Time: 25
+Remaining Burst Time: 5
+...Context is switching...
+
+Will run Name: T4
+Priority: 3
+Burst Time: 15
+Task T4 Finished
+
+Will run Name: T6
+Priority: 3
+Burst Time: 25
+Remaining Burst Time: 5
+...Context is switching...
+
+Will run Name: T7
+Priority: 3
+Burst Time: 25
+Remaining Burst Time: 5
+...Context is switching...
+
+Will run Name: T8
+Priority: 3
+Burst Time: 20
+Task T8 Finished
+
+Will run Name: T9
+Priority: 3
+Burst Time: 20
+Task T9 Finished
+
+Will run Name: T3
+Priority: 3
+Burst Time: 25
+Task T3 Finished
+
+Will run Name: T6
+Priority: 3
+Burst Time: 25
+Task T6 Finished
+
+Will run Name: T7
+Priority: 3
+Burst Time: 25
+Task T7 Finished
+
+Will run Name: T2
+Priority: 2
+Burst Time: 25
+Task T2 Finished
+
